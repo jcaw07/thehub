@@ -32,6 +32,6 @@ This is built for my own use, but the guidelines are general enough that others 
 
 ## License
 
-This repository is licensed under the Creative Commons Attribution 4.0 International license (CC BY 4.0). You may share and adapt the material for any purpose, including commercially, as long as you give appropriate credit. See `LICENSE` for the full text.
+This repository is licensed under the MIT license. You are free to use, copy, modify, and distribute the contents, including for commercial purposes, as long as the copyright notice and permission notice are preserved. See `LICENSE` for the full text.
 
-Copyright 2026 Jim Wallace.
+Copyright (c) 2026 Jim Wallace.
