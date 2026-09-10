@@ -1,7 +1,7 @@
 # Writing Style Guide
 
 Owner: Jim Wallace
-Last updated: 2026-09-03
+Last updated: 2026-09-10
 Source of truth. Edit this file and every Claude surface picks up the change.
 
 ---
@@ -56,6 +56,16 @@ These are non-negotiable. Violating one is a defect, not a style preference.
 | Dragonfly | DragonFly, dragonfly (mid-sentence) |
 | Redis-compatible | Redis replacement, Redis killer |
 | throughput | speed |
+
+### Word choice
+
+- **"Landed"**: use it only where it is specifically and literally true, which
+  in practice means a change is merged and present in the target branch:
+  "the fix landed in `main`". Do not use it for anything that merely arrived,
+  shipped, or went over well. Not "the announcement landed", "the release
+  landed", "the demo landed with the room", "that point landed". Name the
+  actual event instead: merged, shipped, released, published, launched,
+  agreed, worked.
 
 ## Claims and evidence
 
