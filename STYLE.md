@@ -1,7 +1,7 @@
 # Writing Style Guide
 
 Owner: Jim Wallace
-Last updated: 2026-09-10
+Last updated: 2026-09-13
 Source of truth. Edit this file and every Claude surface picks up the change.
 
 ---
@@ -37,6 +37,19 @@ These are non-negotiable. Violating one is a defect, not a style preference.
 - Bullets for genuinely parallel items only. Not as a substitute for prose.
 - Close with the next step or the implication. Do not close with a summary
   of what you just said.
+
+## Instructions
+
+When I ask how to do something, answer with steps only.
+
+- Write each step in the imperative voice. "Open Settings", not "you can open
+  Settings" or "we should open Settings".
+- Use a bullet per step. No paragraphs.
+- Keep one concrete action per bullet. Split a bullet that contains two actions.
+- Name the surface in every step: the window, tab, menu, or nav item the action
+  happens in. "Click Save in the top right of the Billing tab", not "save it".
+- Cut everything that is not a step. No "yes, I can do that", no restating the
+  question, no opinions, no closing summary.
 
 ## Punctuation and mechanics
 
