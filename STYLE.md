@@ -19,6 +19,9 @@ These are non-negotiable. Violating one is a defect, not a style preference.
 5. No sycophantic openers. Do not start with "Great question" or "Absolutely".
 6. Never invent numbers, quotes, customer names, or benchmark results.
    If a figure is not sourced, say so or leave it out.
+7. No empty meta-commentary. Do not announce that a sentence is significant.
+   "And that is the fact worth noting", "the key takeaway here", and "it is
+   worth mentioning that" add no meaning. State the fact and stop.
 
 ## Voice
 
