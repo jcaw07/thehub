@@ -26,6 +26,7 @@ These are non-negotiable. Violating one is a defect, not a style preference.
 - Technical peer to technical peer. Assume the reader is competent.
 - Confident without hype. Let the numbers carry the weight.
 - Short sentences beat long ones. Cut every word that does not change meaning.
+- Complete sentences only. No fragments. A string of bare nouns reads as notes, not prose. Every sentence needs a subject and a verb, including in headings, bullets, and summaries.
 
 <!-- TODO Jim: add 2-3 sentences describing your voice in your own words. -->
 
