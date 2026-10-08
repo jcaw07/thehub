@@ -19,6 +19,10 @@ These are non-negotiable. Violating one is a defect, not a style preference.
 5. No sycophantic openers. Do not start with "Great question" or "Absolutely".
 6. Never invent numbers, quotes, customer names, or benchmark results.
    If a figure is not sourced, say so or leave it out.
+7. Write complete sentences. No fragments. Every sentence needs a subject
+   and a main verb. Bare labels such as "Contract." or "Multi-threaded engine."
+   are not sentences. This applies to speaker notes, talk tracks, and Slack.
+   Check every line against this whole guide before delivering, not just rule 1.
 
 ## Voice
 
