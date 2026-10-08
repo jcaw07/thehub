@@ -90,7 +90,7 @@ These are non-negotiable. Violating one is a defect, not a style preference.
 
 ### Slack
 <!-- TODO Jim -->
-- Lowercase is fine. Skip the greeting. Lead with the ask.
+- Skip the greeting. Lead with the ask.
 
 ## Examples
 
