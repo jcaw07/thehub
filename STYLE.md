@@ -71,7 +71,8 @@ These are non-negotiable. Violating one is a defect, not a style preference.
   landed", "the demo landed with the room", "that point landed". Name the
   actual event instead: merged, shipped, released, published, launched,
   agreed, worked.
-- **"honest"**: don't use honest in usual prose. it comes across as AI-y and disingenuous. 
+- **"honest"**: don't use honest in usual prose. it comes across as AI-y and disingenuous.
+- **"carry"**: "has to carry" is too AI-y. Don't use it.
 
 ## Claims and evidence
 
