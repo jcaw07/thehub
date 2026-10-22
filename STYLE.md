@@ -73,6 +73,7 @@ These are non-negotiable. Violating one is a defect, not a style preference.
   agreed, worked.
 - **"honest"**: don't use honest in usual prose. it comes across as AI-y and disingenuous.
 - **"carry"**: "has to carry" is too AI-y. Don't use it.
+- **"fell short"**: don't use it.
 
 ## Claims and evidence
 
