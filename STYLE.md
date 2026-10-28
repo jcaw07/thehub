@@ -50,6 +50,7 @@ These are non-negotiable. Violating one is a defect, not a style preference.
 - Sentence case for all headings and titles.
 - Numerals for 10 and above, words for nine and below. Always numerals with units.
 - Abbreviate thousands with a capital K and no space: "$36K", "$450K". Use M for millions and B for billions the same way ("$1.4M"). Never write a lowercase "k" for money.
+- Ranges of dates and numbers use a plain hyphen with no spaces (AP style): "Oct 10-12", "55-100 GB". Never an en dash.
 - Code, flags, and config keys in backticks.
 - One space after a period.
 
