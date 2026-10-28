@@ -11,7 +11,8 @@ Source of truth. Edit this file and every Claude surface picks up the change.
 These are non-negotiable. Violating one is a defect, not a style preference.
 
 1. **No em dashes (`—`) and no en dashes (`–`) in prose.** Rewrite the sentence.
-   Use a period, a comma, a colon, or parentheses instead.
+   Use a period, a comma, a colon, or parentheses instead. For ranges of
+   dates and numbers, use a plain hyphen ("Oct 10-12"); see Punctuation and mechanics.
 2. No "delve", "leverage" (as a verb), "unlock", "elevate", "seamless",
    "robust", "game-changer", "in today's fast-paced world".
 3. No "It's not just X, it's Y" construction. No "Let's dive in."
