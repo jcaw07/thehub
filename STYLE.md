@@ -49,6 +49,7 @@ These are non-negotiable. Violating one is a defect, not a style preference.
 - Oxford comma: yes.
 - Sentence case for all headings and titles.
 - Numerals for 10 and above, words for nine and below. Always numerals with units.
+- Abbreviate thousands with a capital K and no space: "$36K", "$450K". Use M for millions and B for billions the same way ("$1.4M"). Never write a lowercase "k" for money.
 - Code, flags, and config keys in backticks.
 - One space after a period.
 
